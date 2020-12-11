@@ -18,7 +18,7 @@
 - covid_scaler.sav
 - normal_model.sav
 - normal_scaler.sav
-[web_app](/webappinterface.png)
+<br>![web_app](/webappinterface.png)
 ##### To use the App
 1. Packages required:
 - Streamlit, Pandas, Numpy, Geopandas, Pickle, Matplotlib
