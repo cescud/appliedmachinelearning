@@ -20,7 +20,7 @@
 - normal_scaler.sav
 
 #### App Interface
-<br>
+
 ![web_app](/webappinterface.png)
 
 ##### To use the App
